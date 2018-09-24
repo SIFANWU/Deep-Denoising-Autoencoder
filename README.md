@@ -8,9 +8,8 @@ The evaluation methods include PESQ (Perceptual Evaluation of Speech Quality) an
 
 #----------------------------------------------------------------------------------------------------------------------------#
 Execution order：pre-process.py -getspectrum.py -trainmodel.py -testmodel.py -Evaluation.py -PESQ_socre.py
-
-
 #----------------------------------------------------------------------------------------------------------------------------#
+
 The original source data is from The GRID audiovisual sentence corpus(University of Sheffield) for clean speech
 The link: http://spandh.dcs.shef.ac.uk/gridcorpus/
 
