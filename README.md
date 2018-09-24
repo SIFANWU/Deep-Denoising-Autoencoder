@@ -5,8 +5,9 @@ Using Keras to construct the model (backend is Tensorflow)
 
 The evaluation methods include PESQ (Perceptual Evaluation of Speech Quality) and STOI (Short Term Objective Intelligibility)
 
-
+/n
 #----------------------------------------------------------------------------------------------------------------------------#
+/n
 Execution order：pre-process.py -getspectrum.py -trainmodel.py -testmodel.py -Evaluation.py -PESQ_socre.py
 #----------------------------------------------------------------------------------------------------------------------------#
 
